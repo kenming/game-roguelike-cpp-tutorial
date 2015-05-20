@@ -1,0 +1,11 @@
+gnore the build dirs
+build
+
+# Ignore any executables
+bin/*
+tuto
+
+# Ignore ctags & cscope files.
+tags
+src/tags
+cscope.*
